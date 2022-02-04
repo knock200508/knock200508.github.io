@@ -1,5 +1,5 @@
 # 欢迎来到knock网站群导航页
-本站地址：[https://knock200508.github.io](https://knock200508.github.io)
+本站地址：[https://knock200508.github.io/](https://knock200508.github.io/)
 
 blog地址：[https://knock200508.github.io/blog/](https://knock200508.github.io/blog/)
 

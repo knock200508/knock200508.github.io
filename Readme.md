@@ -3,9 +3,9 @@
 
 blog地址：[https://knock200508.github.io/blog/](https://knock200508.github.io/blog/)
 
-网盘地址：[https://knock200508.github.io/knock-oneindex/](https://knock200508.github.io/knock-oneindex/)
+网盘地址：[https://knock200508.github.io/FODI/](https://knock200508.github.io/FODI/)
 
-Remote Apps地址：[https://218.89.171.148:13686/](https://218.89.171.148:13686/)
+（备用）[https://knock200508.github.io/knock-oneindex/](https://knock200508.github.io/knock-oneindex/)
 
 测试网页地址：[https://knock200508.github.io/pages/](https://knock200508.github.io/pages/)
 
